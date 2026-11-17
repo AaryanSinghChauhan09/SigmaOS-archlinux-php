@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-php"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-php component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
